@@ -1,2 +1,3 @@
 branch a3 commit 1 \n
 branch a3 commit 2 \n
+branch a3 commit 3 \n
