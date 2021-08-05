@@ -1,1 +1,2 @@
 branch x10 commit 1 \n
+branch x10 commit 2 \n
