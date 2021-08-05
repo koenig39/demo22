@@ -1,2 +1,3 @@
 branch x6 commit 1 \n
 branch x6 commit 2 \n
+branch x6 commit 3 \n
