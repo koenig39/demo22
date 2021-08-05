@@ -1,1 +1,2 @@
 branch s8 commit 1 \n
+branch s8 commit 2 \n
