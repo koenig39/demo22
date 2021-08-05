@@ -1,1 +1,2 @@
 branch x2 commit 1 \n
+branch x2 commit 2 \n
