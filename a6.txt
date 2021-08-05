@@ -1,1 +1,2 @@
 branch a6 commit 1 \n
+branch a6 commit 2 \n
