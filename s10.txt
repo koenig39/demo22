@@ -1,1 +1,2 @@
 branch s10 commit 1 \n
+branch s10 commit 2 \n
