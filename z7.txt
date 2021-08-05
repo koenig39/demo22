@@ -1,1 +1,2 @@
 branch z7 commit 1 \n
+branch z7 commit 2 \n
